@@ -1,5 +1,6 @@
 ### Приветствую! 👋 Меня зовут Владимир
 #### По образованию я инженер по автоматизации технологических процессов (направление - приборостроение).
+![https://disk.yandex.ru/i/_R2CBF970baFYA](https://downloader.disk.yandex.ru/preview/ab628b2f5d38d62ad435a5361551a955fecda92a772311549f0395f1213ed05c/62cc2c9c/Qv8ifpn408PWmqah1f-O1Lr7-2TMzbk7MnAF8OfrAbw-1xquYhkQhadPD40YAqClCK_1qD4pmfFk06i9wUvNXQ%3D%3D?uid=0&filename=me.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2560x1289)
 
 На данный момент являюсь начальником отдела технологического обеспечения судостроительного производства в г.Севастополь. Начал интересоваться Web-разработкой с октября 2021 года в качестве хобби. Обучение проходил самостоятельно на онлайн-курсах Udemy. В открытых репозиториях собраны проекты, которые были реализованы по моей  инициативе либо являлись домашними заданиями в процессе обучения.
 
@@ -32,7 +33,7 @@
 ### Hi!👋
 My name is Vladimir
 #### I am a process automation engineer.
-![https://disk.yandex.ru/i/_R2CBF970baFYA](https://downloader.disk.yandex.ru/preview/ab628b2f5d38d62ad435a5361551a955fecda92a772311549f0395f1213ed05c/62cc2c9c/Qv8ifpn408PWmqah1f-O1Lr7-2TMzbk7MnAF8OfrAbw-1xquYhkQhadPD40YAqClCK_1qD4pmfFk06i9wUvNXQ%3D%3D?uid=0&filename=me.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2560x1289)
+
 
 I am engaged in the preparation of production for the construction of floating cranes in the city of Sevastopol. In my spare time, I'm learning a new profession as a Frontend developer.
 
