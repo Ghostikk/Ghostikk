@@ -1,15 +1,3 @@
-### Hi!👋
-My name is Vladimir
-#### I am a process automation engineer.
-![https://disk.yandex.ru/i/_R2CBF970baFYA](https://downloader.disk.yandex.ru/preview/ab628b2f5d38d62ad435a5361551a955fecda92a772311549f0395f1213ed05c/62cc2c9c/Qv8ifpn408PWmqah1f-O1Lr7-2TMzbk7MnAF8OfrAbw-1xquYhkQhadPD40YAqClCK_1qD4pmfFk06i9wUvNXQ%3D%3D?uid=0&filename=me.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2560x1289)
-
-I am engaged in the preparation of production for the construction of floating cranes in the city of Sevastopol. In my spare time, I'm learning a new profession as a Frontend developer.
-
-Skills: HTML /CSS (SCSS)/JavaScript/React
-
-- 🔭 I’m currently working on  on a small React PET project to better understand this framework and the SPA principle 
-
-
 ### Приветствую! 👋 Меня зовут Владимир
 #### По образованию я инженер по автоматизации технологических процессов (направление - приборостроение).
 
@@ -39,3 +27,15 @@ Skills: HTML /CSS (SCSS)/JavaScript/React
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vladimir-seledkin.ru/) - <b>Тут можно узнать обо мне больше. </b><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/v_seledkin) - <b>Тут можно связаться со мной</b>.
+
+
+### Hi!👋
+My name is Vladimir
+#### I am a process automation engineer.
+![https://disk.yandex.ru/i/_R2CBF970baFYA](https://downloader.disk.yandex.ru/preview/ab628b2f5d38d62ad435a5361551a955fecda92a772311549f0395f1213ed05c/62cc2c9c/Qv8ifpn408PWmqah1f-O1Lr7-2TMzbk7MnAF8OfrAbw-1xquYhkQhadPD40YAqClCK_1qD4pmfFk06i9wUvNXQ%3D%3D?uid=0&filename=me.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2560x1289)
+
+I am engaged in the preparation of production for the construction of floating cranes in the city of Sevastopol. In my spare time, I'm learning a new profession as a Frontend developer.
+
+Skills: HTML /CSS (SCSS)/JavaScript/React
+
+- 🔭 I’m currently working on  on a small React PET project to better understand this framework and the SPA principle 
