@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vladimir
 #### I am a process automation engineer.
-![I am a process automation engineer.](http://i.imgur.com/c7GmAJf.png)
+![I am a process automation engineer.]([http://i.imgur.com/c7GmAJf.png](https://disk.yandex.ru/i/_R2CBF970baFYA))
 
 I am engaged in the preparation of production for the construction of floating cranes in the city of Sevastopol. In my spare time, I'm learning a new profession as a Frontend developer.
 
